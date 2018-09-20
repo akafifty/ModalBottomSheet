@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/btnStyle2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null"
+        android:drawablePadding="32dp"
+        android:drawableStart="@drawable/ic_preview"
+        android:padding="16dp"
+        android:text="Preview"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textColor="#494949"
+        android:textSize="16sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null"
+        android:drawablePadding="32dp"
+        android:drawableStart="@drawable/ic_share"
+        android:padding="16dp"
+        android:text="Share"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textColor="#494949"
+        android:textSize="16sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null"
+        android:drawablePadding="32dp"
+        android:drawableStart="@drawable/ic_link"
+        android:padding="16dp"
+        android:text="Get link"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textColor="#494949"
+        android:textSize="16sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null"
+        android:drawablePadding="32dp"
+        android:drawableStart="@drawable/ic_copy"
+        android:padding="16dp"
+        android:text="Make a Copy"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textColor="#494949"
+        android:textSize="16sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null"
+        android:drawablePadding="32dp"
+        android:drawableStart="@drawable/ic_email"
+        android:padding="16dp"
+        android:text="Mail a Copy"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textColor="#494949"
+        android:textSize="16sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null"
+        android:drawablePadding="32dp"
+        android:drawableStart="@drawable/ic_delete"
+        android:padding="16dp"
+        android:text="Delete"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textColor="#494949"
+        android:textSize="16sp" />
+
+</LinearLayout>
